@@ -15,34 +15,34 @@ This is the raw Hawaii Ocean Time-series bottle data, the main dataset used in K
 The Jupyter notebook reads in a few other auxiliary data files that are too large or have copyright issues and are therefore not included in this repository. The file sources are also indicated in the Jupyter Notebook itself. Below is a list of the files needed and the URLs/DOIs that they are currently found at (and hopefully remain in the future). Last update: 4/2025.
 
 ### global_omi_climvar_npgo_sla_eof_mode_projection_19950115_P20230406.nc
-NPGO North Pacific Gyre Oscillation from Observations Reprocessing
-DOI: 10.48670/moi-00221
-Source: Copernicus Marine Data Store 
+NPGO North Pacific Gyre Oscillation from Observations Reprocessing<br/> 
+DOI: 10.48670/moi-00221<br/>
+Source: Copernicus Marine Data Store<br/> 
 URL: https://data.marine.copernicus.eu/product/OMI_EXTREME_CLIMVAR_PACIFIC_npgo_sla_eof_mode_projection/
 
 ### pdo.csv
-Pacific Decadal Oscillation: ERSST PDO Index
-Source: NOAA National Centers for Environmental Information (NCEI)
+Pacific Decadal Oscillation: ERSST PDO Index<br/>
+Source: NOAA National Centers for Environmental Information (NCEI)<br/>
 URL: https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/index/ersst.v5.pdo.dat
 
 ### enso.csv
-El Niño Southern Oscillation: Multivariate ENSO Index v.2 (MEI)
-Source: NOAA Physical Sciences Laboratory
-https://psl.noaa.gov/enso/mei/data/meiv2.data
+El Niño Southern Oscillation: Multivariate ENSO Index v.2 (MEI)<br/>
+Source: NOAA Physical Sciences Laboratory<br/>
+URL: https://psl.noaa.gov/enso/mei/data/meiv2.data
 
 ### OceanSODA-ETHZ_GRaCER_v2021a_1982-2020.nc
-OceanSODA-ETHZ: A global gridded dataset of the curface ocean carbonate sytem
-DOI: 10.5194/essd-13-777-2021
-Source: Gregor, L., & Gruber, N. (2020). OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2023) (NCEI Accession 0220059) [Dataset]. NOAA National Centers for Environmental Information. 
+OceanSODA-ETHZ: A global gridded dataset of the curface ocean carbonate sytem<br/>
+DOI: 10.5194/essd-13-777-2021<br/>
+Source: Gregor, L., & Gruber, N. (2020). OceanSODA-ETHZ: A global gridded dataset of the surface ocean carbonate system for seasonal to decadal studies of ocean acidification (v2023) (NCEI Accession 0220059) [Dataset]. NOAA National Centers for Environmental Information.<br/> 
 URL: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0220059
 
 ### RG_ArgoClim_[...].nc
-Roemmich & Gilson Argo Climatology (2009) 
-Argo Data DOI: 10.17882/42182 
+Roemmich & Gilson Argo Climatology (2009)<br/> 
+Argo Data DOI: 10.17882/42182<br/> 
 URL https://sio-argo.ucsd.edu/RG_Climatology.html 
 
 ### PreformedPropertiesDefault_v1.nc
-Preformed Properties for Marine Organic Matter and Carbonate Mineral Cycling Quantification
-DOI 10.1029/2020GB006623
+Preformed Properties for Marine Organic Matter and Carbonate Mineral Cycling Quantification<br/>
+DOI 10.1029/2020GB006623<br/>
 Source: Carter, B. R., Feely, R. A., Lauvset, S. K., Olsen, A., DeVries, T., & Sonnerup, R. (2021). Preformed Properties for Marine Organic Matter and Carbonate Mineral Cycling Quantification. Global Biogeochemical Cycles, 35(1), e2020GB006623
 URL: https://github.com/BRCScienceProducts/PreformedPropertyEstimates
