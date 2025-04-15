@@ -5,6 +5,9 @@ This repository contains the complete code for data analysis and generation of f
 ### oatrends_knor_environment.yml  
 This contains the Conda environment in which the code is run. You can generate a functioning environment to run the code on your machine from this file if you follow the instructions at https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
 
+### package-list.txt
+This contains the versions of all packages in the conda environment used to run the code. Future or older versions may cause issues.
+
 ### OATrends_Knor2025_JGR_Code.ipynb
 This is the Jupyter Notebook with the complete Python code. It generates multiple output files of all figures and numerical results shown and reported in Knor et al. (2025).
 
