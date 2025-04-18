@@ -303,7 +303,6 @@ dependencies:
       - pandas==2.2.2
       - portalocker==2.8.2
       - pyco2sys==1.8.2
-      - pycurrents==0.0.0
       - pyproj==3.6.1
       - pyshp==2.3.1
       - pystac==1.10.1
